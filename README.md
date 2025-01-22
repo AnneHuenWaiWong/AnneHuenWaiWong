@@ -1,13 +1,15 @@
 ## Hi there 👋
 
-- 🌱 I have 3 years of fintech industry experiences including leveraging data analysis and business intelligence to optimize operations and drive sales growth. 
-- 🌱 I was a data scientist in ML, AI and Data Science, implemented machine learning-driven client marketing strategies at Harvest Fund Management, enhancing efficiency by 20%.
+- 🌱 I have 3 years of fintech industry experience, leveraging data analysis and business intelligence to optimize operations and drive sales growth.
+- 🌱 I served as a data scientist focused on ML, AI, and data science at Harvest Fund Management, implementing machine learning-driven client marketing strategies that enhanced efficiency by 20%.
 - 🌱 I am skilled at transforming complex data into actionable insights to drive impactful decisions.
 - 📫 How to reach me: annewong@uw.edu
-- ⚡ I love Alpine Skiing (passion for speed and adrenaline), Tennis (play three times a week) and Cooking (enjoy sharing homemade dishes)!
+- ⚡ I love Alpine skiing (speed & adrenaline), tennis (three times a week), and cooking (enjoy sharing homemade dishes)!
 
-Here’s the projects I’ve contributed to (during my campus time):
-- [ProjectXYZ](https://github.com/someone/ProjectXYZ)
+Here are some projects I contributed to during my campus days:
+- [Yelp Customer Satisfaction Analysis](https://github.com/sshen82/STAT-628-Module3)
+- [Parallel Biweight Midcorrelation for Cholesterol Genes](https://github.com/605Group17Genes/605project)
+- [BodyFat Calculator](https://github.com/628-module2-group9/Bodyfat)
 
 
 <!--
