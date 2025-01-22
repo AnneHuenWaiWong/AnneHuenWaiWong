@@ -8,8 +8,8 @@
 
 Here are some projects I contributed to during my campus days:
 - [Yelp Customer Satisfaction Analysis](https://github.com/sshen82/STAT-628-Module3)
-- [Parallel Biweight Midcorrelation for Cholesterol Genes](https://github.com/605Group17Genes/605project)
-- [BodyFat Calculator](https://github.com/628-module2-group9/Bodyfat)
+- [Identifying Potential Cholesterol Genes Using Parallel Biweight Midcorrelation Analysis](https://github.com/605Group17Genes/605project)
+- [Simplified and Accurate Male Body Fat Estimation Using Key Measurements](https://github.com/628-module2-group9/Bodyfat)
 
 
 <!--
