@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+About me:
 - 🌱 I have 3 years of fintech industry experience, leveraging data analysis and business intelligence to optimize operations and drive sales growth.
 - 🌱 I served as a data scientist focused on ML, AI, and data science at Harvest Fund Management, implementing machine learning-driven client marketing strategies that enhanced efficiency by 20%.
 - 🌱 I am skilled at transforming complex data into actionable insights to drive impactful decisions.
