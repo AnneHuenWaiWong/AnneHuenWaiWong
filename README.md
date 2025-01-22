@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+- 🌱 I have 3 years of fintech industry experiences including leveraging data analysis and business intelligence to optimize operations and drive sales growth. 
+- 🌱 I was a data scientist in ML, AI and Data Science, implemented machine learning-driven client marketing strategies at Harvest Fund Management, enhancing efficiency by 20%.
+- 🌱 I am skilled at transforming complex data into actionable insights to drive impactful decisions.
+- 📫 How to reach me: annewong@uw.edu
+- ⚡ I love Alpine Skiing (passion for speed and adrenaline), Tennis (play three times a week) and Cooking (enjoy sharing homemade dishes)!
+
+Here’s the projects I’ve contributed to (during my campus time):
+- [ProjectXYZ](https://github.com/someone/ProjectXYZ)
+
+
 <!--
 **AnneHuenWaiWong/AnneHuenWaiWong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
