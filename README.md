@@ -1,11 +1,13 @@
-## Hi there 👋
+## Hi, I'm Anne 👋
 
-About me:
-- 🌱 I have 3 years of fintech industry experience, leveraging data analysis and business intelligence to optimize operations and drive sales growth.
-- 🌱 I served as a data scientist focused on ML, AI, and data science at Harvest Fund Management, implementing machine learning-driven client marketing strategies that enhanced efficiency by 20%.
-- 🌱 I am skilled at transforming complex data into actionable insights to drive impactful decisions.
-- 📫 How to reach me: annewong@uw.edu
-- ⚡ I love Alpine skiing (speed & adrenaline), tennis (three times a week), and cooking (enjoy sharing homemade dishes)!
+💡 **Data Scientist | Fintech Enthusiast | ML & AI Practitioner** 
+- I am a data scientist with 3 years of fintech experience in data analysis and BI, optimizing operations and driving sales growth.  
+- My work focuses on leveraging ML & AI to enhance client marketing strategies and improve efficiency.  
+- I am passionate about transforming complex data into actionable insights for impactful decision-making.
+
+🌱 **Beyond Data**: I love Alpine skiing 🎿 (speed & adrenaline), tennis 🎾 (three times a week), and cooking 🍳 (enjoy sharing homemade dishes)!
+
+📫 **Let's connect**: annewong@uw.edu  
 
 Here are some projects I contributed to during my campus days:
 - [Yelp Customer Satisfaction Analysis](https://github.com/sshen82/STAT-628-Module3)
