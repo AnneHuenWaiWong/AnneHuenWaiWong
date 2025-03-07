@@ -1,13 +1,13 @@
 ## Hi, I'm Anne 👋
 
-💡 **Data Scientist | Fintech Enthusiast | ML & AI Practitioner** 
+**Data Scientist | Fintech Enthusiast | ML & AI Practitioner** 
 - I am a data scientist with 3 years of fintech experience in data analysis and BI, optimizing operations and driving sales growth.  
 - My work focuses on leveraging ML & AI to enhance client marketing strategies and improve efficiency.  
 - I am passionate about transforming complex data into actionable insights for impactful decision-making.
 
-🌱 **Beyond Data**: I love Alpine skiing 🎿 (speed & adrenaline), tennis 🎾 (three times a week), and cooking 🍳 (enjoy sharing homemade dishes)!
+**Beyond Data**: I love Alpine skiing 🎿 (speed & adrenaline), tennis 🎾 (three times a week), and cooking 🍳 (enjoy sharing homemade dishes)!
 
-📫 **Let's connect**: annewong@uw.edu  
+**Let's connect**: annewong@uw.edu  
 
 Here are some projects I contributed to during my campus days:
 - [Yelp Customer Satisfaction Analysis](https://github.com/sshen82/STAT-628-Module3)
