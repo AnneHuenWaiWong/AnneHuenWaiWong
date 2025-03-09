@@ -1,8 +1,8 @@
 ## Hi, I'm Anne 👋
 
-**Data Scientist | Fintech Enthusiast | ML & AI Practitioner** 
-- I am a data scientist with 3 years of fintech experience in data analysis and BI, optimizing operations and driving sales growth.  
-- My work focuses on leveraging ML & AI to enhance client marketing strategies and improve efficiency.  
+**Data Scientist | Fintech Professional | ML & AI Practitioner** 
+- I am a data scientist with 3 years of fintech experience in ML and AI.
+- My work focuses on optimizing client marketing strategies and improving operational efficiency, driving sales growth.
 - I am passionate about transforming complex data into actionable insights for impactful decision-making.
 
 **Beyond Data**: I love Alpine skiing 🎿 (speed & adrenaline), tennis 🎾 (three times a week), and cooking 🍳 (enjoy sharing homemade dishes)!
